@@ -500,9 +500,6 @@
 .socicon-weibo:before {
   content: "\e098";
 }
-.socicon-whatsapp:before {
-  content: "\e099";
-}
 .lel {
   font-family: 'socicon' !important;
 }
