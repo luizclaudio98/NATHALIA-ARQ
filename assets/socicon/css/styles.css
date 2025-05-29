@@ -503,6 +503,13 @@
 .socicon-whatsapp:before {
   content: "\e099";
 }
+.lel {
+  font-family: 'socicon' !important;
+}
+
+.lel:before {
+  content: "\e099";
+}
 .socicon-wikipedia:before {
   content: "\e09a";
 }
